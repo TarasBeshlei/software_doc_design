@@ -27,7 +27,6 @@ public class CsvData implements ICsvReader {
         }
 
         csvParts = str.split("\\n\\n");
-//        System.out.println(csvParts[1]);
     }
 
     @Override
